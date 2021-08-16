@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 72.742 s <<< FAILURE! - in TestSuite
+insuranceCalculate(insuranceCalculation_MotorCycle.EndToEndTests_motorcycle)  Time elapsed: 11.944 s  <<< FAILURE!
+java.lang.Exception: Value is not present in dropdown for WebElement:  [[ChromeDriver: chrome on WINDOWS (1b467cb8fae8495b628fcc7541027cb7)] -> id: numberofseatsmotorcycle]  value to be selected is:  2.0
+	at insuranceCalculation_MotorCycle.EndToEndTests_motorcycle.insuranceCalculate(EndToEndTests_motorcycle.java:25)
+
+insuranceCalculate(insuranceCalculation_MotorCycle.EndToEndTests_motorcycle)  Time elapsed: 11.895 s  <<< FAILURE!
+java.lang.Exception: Value is not present in dropdown for WebElement:  [[ChromeDriver: chrome on WINDOWS (530689a66514ed33507c996d44ccd857)] -> id: numberofseatsmotorcycle]  value to be selected is:  2.0
+	at insuranceCalculation_MotorCycle.EndToEndTests_motorcycle.insuranceCalculate(EndToEndTests_motorcycle.java:25)
+
+insuranceCalculate(insuranceCalculation_MotorCycle.EndToEndTests_motorcycle)  Time elapsed: 12.396 s  <<< FAILURE!
+java.lang.Exception: Value is not present in dropdown for WebElement:  [[ChromeDriver: chrome on WINDOWS (bc5fc641d8d4377fd5381a42677eee2d)] -> id: numberofseatsmotorcycle]  value to be selected is:  2.0
+	at insuranceCalculation_MotorCycle.EndToEndTests_motorcycle.insuranceCalculate(EndToEndTests_motorcycle.java:25)
+
